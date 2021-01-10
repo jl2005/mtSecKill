@@ -3,9 +3,9 @@ package main
 import (
 	"bufio"
 	"flag"
-	"github.com/zqijzqj/mtSecKill/global"
-	"github.com/zqijzqj/mtSecKill/logs"
-	"github.com/zqijzqj/mtSecKill/secKill"
+	"github.com/jl2005/mtSecKill/global"
+	"github.com/jl2005/mtSecKill/logs"
+	"github.com/jl2005/mtSecKill/secKill"
 	"os"
 	"strings"
 	"time"

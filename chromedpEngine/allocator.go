@@ -8,7 +8,7 @@ import (
 	"github.com/chromedp/cdproto/page"
 	"github.com/chromedp/cdproto/target"
 	"github.com/chromedp/chromedp"
-	"github.com/zqijzqj/mtSecKill/logs"
+	"github.com/jl2005/mtSecKill/logs"
 	"math/rand"
 	"net/http"
 	"sync"
